@@ -621,7 +621,7 @@ Joe Walsh,0,0
 Nicolas Baeza,0,0
 Karlo Bartolec,0,0
 권완규 权完圭,0,0
-Caio Vinicius Pirana,0,1
+Caio Vinicius Pirana,1,1
 Diogo Filipe Monteiro Pinto Leite,2,2
 이현우 李炫雨,0,0
 Chidi Omeje,0,0
@@ -727,7 +727,7 @@ Fredrik Ulvestad,0,0
 Juan Pedro Ramírez López,1,1
 Sean Davis,0,0
 Shane Tracy,0,0
-Gökhan Töre,1,0
+Gökhan Töre,0,0
 Nicolás Fernández,1,1
 Emanuel Brítez,0,0
 Kyle Walker-Peters,1,1
@@ -1433,7 +1433,7 @@ Antonio Milić,1,0
 藤田 直之,0,0
 João Miguel Macedo da Silva,1,1
 Lourival Adnan Diniz Prazeres,0,0
-Derley Gonzo,0,1
+Derley Gonzo,1,1
 Patrick McEleney,0,0
 Rodney Wallace,0,0
 Lokman Gör,0,0
@@ -1971,7 +1971,7 @@ Evangelos Pavlidis,0,0
 Marcelo Martins Moreno,0,0
 Sten Michael Grytebust,0,0
 Emil Audero,2,2
-Joel Latibeaudiere,1,1
+Joel Latibeaudiere,0,1
 Nick Suman,0,0
 Lucas Henrique Ferreira Venuto,0,0
 登里 享平,0,0
@@ -2064,7 +2064,7 @@ Ziyad Al Sahafi,0,0
 Stefano Moreo,0,0
 Mirko Carretta,0,0
 Jardel Nivaldo Vieira,1,1
-Hamed Junior Traorè,2,2
+Hamed Junior Traorè,1,2
 Joe Tupper,0,0
 Kemal Ademi,0,0
 Te Atawhai Hudson-Wihongi,0,0
@@ -2205,7 +2205,7 @@ Gideon Mensah,0,0
 Ricky Miller,0,0
 Mariano Omar Barbieri,0,0
 Patrick Sontheimer,1,0
-Florian Ayé,0,0
+Florian Ayé,1,0
 Christopher Giuliani,0,0
 Valentin Belon,0,0
 Alam Cristian Araújo Martins,0,0
@@ -2325,7 +2325,7 @@ Miguel Ángel Nazarit Mina,1,1
 Aleksandar Cvetković,0,0
 Genta Ito,0,0
 Cameron Carter-Vickers,1,1
-Felipe Nicolás Avenatti,1,0
+Felipe Nicolás Avenatti,0,0
 Bryan Acosta,1,0
 Philippos Selkos,0,0
 Richard Strebinger,1,1
@@ -2497,7 +2497,7 @@ Jannik Bandowski,0,0
 Borja Galán González,0,0
 Rafael Dumas Ribeiro,0,0
 권순태 权纯泰,0,0
-Benjamin Nygren,1,0
+Benjamin Nygren,0,0
 Dennis Daube,0,0
 Angel Gomes,2,2
 Diego Abella,0,0
@@ -2755,7 +2755,7 @@ Okan Kocuk,0,0
 George Nyiko Maluleka,0,0
 Michael Parkhurst,0,0
 José Ángel Pozo la Rosa,1,1
-Igor Zubeldia Elorza,2,1
+Igor Zubeldia Elorza,1,1
 Guy-Roland Ndy Assembe,0,0
 Miguel René Ortega Rodríguez,0,0
 Nicolás Bertocchi,0,0
@@ -2789,7 +2789,7 @@ Josh Meekings,0,0
 Francisco José Rodríguez Gaitán,0,0
 Kacper Przybyłko,0,0
 Brian Chevreuil,0,0
-Daler Kuzyaev,0,1
+Daler Kuzyaev,1,1
 Zoltán Stieber,0,0
 Konstantinos Dimitriou,0,0
 王选宏,0,0
@@ -2825,7 +2825,7 @@ Jandrei Chitolina Carniel,0,1
 Hicham Faik,0,0
 Carlos Sebastián Sosa Silva,0,0
 Zachary Dearnley,0,0
-Sergio Álvarez Díaz,0,1
+Sergio Álvarez Díaz,1,1
 Luis Carlos Fariña Olivera,0,0
 Silvan Sidler,0,0
 Matti Lund Nielsen,0,0
@@ -2853,7 +2853,7 @@ Fernando Luiz Rosa,2,2
 Rody de Boer,1,1
 Robin Singh,0,0
 Andy Polo,0,0
-Tobias Sippel,1,0
+Tobias Sippel,0,0
 Toni Lindenhahn,0,0
 Saúl Salcedo,2,1
 Evandro Sérgio Rochedo Paulino,0,0
@@ -3063,7 +3063,7 @@ Jake Jervis,0,0
 Doğan Erdoğan,0,0
 Manprit Sarkaria,0,0
 John Fleck,0,0
-Ayrton Preciado,0,0
+Ayrton Preciado,1,0
 Nikola Moro,1,1
 Josh Risdon,0,0
 Janik Jesgarzewski,0,0
@@ -3448,7 +3448,7 @@ Ali Turan,0,0
 Connor Randall,0,0
 Noel Niemann,0,0
 Josué Humberto Gonçalves Leal Sá,0,0
-Jhon Duque,1,1
+Jhon Duque,0,1
 Kai Eisele,0,0
 Lewis Harry Holtby,0,0
 Moritz Nicolas,1,0
@@ -3509,7 +3509,7 @@ Sergiy Kryvtsov,1,1
 Yannick Mamilonne,0,0
 Josip Iličić,1,1
 马兴煜,0,0
-Didier Lamkel Zé,0,0
+Didier Lamkel Zé,1,0
 金子 大毅,0,0
 Justin Bijlow,2,1
 Faisal Darwish,0,0
@@ -4089,15 +4089,15 @@ Mattia Trovato,0,0
 Hugo Armando Campagnaro,0,0
 Nicolás Bazzana,0,0
 이석현 李硕贤,0,0
-Josué Misael Domínguez González,0,0
+Josué Misael Domínguez González,1,0
 Filippo De Col,0,0
 Matt Miazga,1,1
 Mamadou Fall,0,0
 Ronaldo  Aparecido Rodrigues,2,2
 Mattéo Tramoni,0,0
-James Sands,1,0
+James Sands,0,0
 Tom Field,0,0
-Nasser Al Dawsari,1,1
+Nasser Al Dawsari,0,1
 Jure Balkovec,0,0
 Hamza Choudhury,1,1
 Rafael Czichos,0,0
@@ -4281,7 +4281,7 @@ Giovanny León,0,0
 Brayan Damián Lucumí Lucumí,0,0
 Omar Mohammed Muzayil,0,0
 Luke DeVere,0,0
-Gabriel Armando de Abreu,1,2
+Gabriel Armando de Abreu,2,2
 韩轩,0,0
 Pierre Bouby,0,0
 Guillaume Buon,0,0
